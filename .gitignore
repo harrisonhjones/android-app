@@ -18,7 +18,7 @@
 
 # local build config items
 SparkCore/res/values/local_build.xml
-
+SparkCore/res/values/font_names.xml
 
 # Eclipse project files
 # COMMENTED OUT: we want these.
@@ -27,3 +27,14 @@ SparkCore/res/values/local_build.xml
 
 */.metadata/
 */.settings/
+
+# Fonts 
+*.ttf
+*.otf
+
+# TI's Smart Config Library
+smartconfiglib.jar
+
+# Android Studio
+SparkCore.iml
+.idea
